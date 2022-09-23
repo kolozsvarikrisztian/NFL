@@ -1,0 +1,50 @@
+Deshaun Watson;4823;544;382;33;7;112,4;Clemson
+Patrick Mahomes;4740;588;390;38;6;108,2;Texas Tech
+Tom Brady;4633;610;401;40;12;102,2;Michigan
+Matt Ryan;4581;626;407;26;11;93,3;Boston College
+Josh Allen;4544;572;396;37;10;107,2;Wyoming
+Justin Herbert;4336;595;396;31;10;98,3;Oregon
+Aaron Rodgers;4299;526;372;48;5;121,5;California
+Kirk Cousins;4265;516;349;35;13;105;Michigan State
+Russell Wilson;4212;558;384;40;13;105,1;Wisconsin
+Philip Rivers;4169;543;369;24;11;97;North Carolina State
+Derek Carr;4103;517;348;27;9;101,4;Fresno State
+Matthew Stafford;4084;528;339;26;10;96,3;Georgia
+Kyler Murray;3971;558;375;26;12;94,3;Oklahoma
+Jared Goff;3952;552;370;20;13;90;California
+Ryan Tannehill;3819;481;315;33;7;106,5;Texas A&M
+Ben Roethlisberger;3803;608;399;33;10;94,1;Miami (Ohio)
+Teddy Bridgewater;3733;492;340;15;11;92,1;Louisville
+Baker Mayfield;3563;486;305;26;8;95,9;Oklahoma
+Daniel Jones;2943;448;280;11;10;80,4;Duke
+Drew Brees;2942;390;275;24;6;106,4;Purdue
+Drew Lock;2933;443;254;16;15;75,4;Missouri
+Lamar Jackson;2757;376;242;26;9;99,3;Louisville
+Joe Burrow;2688;404;264;13;5;89,8;LSU
+Cam Newton;2657;368;242;8;10;82,9;Auburn
+Carson Wentz;2620;437;251;16;15;72,8;North Dakota State
+Nick Mullens;2437;326;211;12;12;84,1;Southern Mississippi
+Gardner Minshew;2259;327;216;16;5;95,9;Washington State
+Sam Darnold;2208;364;217;9;11;72,7;USC
+Andy Dalton;2170;333;216;14;8;87,3;TCU
+Ryan Fitzpatrick;2091;267;183;13;8;95,6;Harvard
+Mitchell Trubisky;2055;297;199;16;8;93,5;North Carolina
+Dak Prescott;1856;222;151;9;4;99,6;Mississippi State
+Nick Foles;1852;311;202;10;8;81;Arizona
+Tua Tagovailoa;1814;290;186;11;5;87,1;Alabama
+Alex Smith;1582;252;168;6;8;78,5;Utah
+Dwayne Haskins;1439;241;148;5;7;73;Ohio State
+Jimmy Garoppolo;1096;140;94;7;5;92,4;Eastern Illinois
+Mike Glennon;1072;179;111;7;5;80,1;North Carolina State
+Jalen Hurts;1061;148;77;6;4;77,6;Oklahoma
+Taysom Hill;928;121;88;4;2;98,8;Brigham Young
+Brandon Allen;925;142;90;5;4;82;Arkansas
+Joe Flacco;864;134;74;6;3;80,6;Delaware
+C.J. Beathard;787;104;66;6;0;105,7;Iowa
+Jake Luton;624;110;60;2;6;54,5;Oregon State
+Kyle Allen;610;87;60;4;1;99,3;Houston
+Jeff Driskel;432;64;35;3;2;78,4;Louisiana Tech
+Colt McCoy;375;66;40;1;1;75;Texas
+P.J. Walker;368;56;32;1;5;45,8;Temple
+Mason Rudolph;324;43;25;2;1;87,7;Oklahoma State
+Brett Rypien;295;40;27;2;4;66,1;Boise State
